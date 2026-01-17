@@ -163,7 +163,7 @@ nav a:hover{
 /* HERO */
 .hero{
   height:100vh;
-  background:url("../images/hero.jpg") center/cover no-repeat;
+  background:url("hero.jpg") center/cover no-repeat;
   display:flex;
   align-items:center;
   padding-left:60px;
@@ -322,7 +322,7 @@ nav a:hover {
   height: 100vh;
   background-image: 
     linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
-    url("../images/bg1.jpg");   /* change image name if needed */
+    url("bg1.jpg");   /* change image name if needed */
 
   background-size: cover;
   background-position: center;
@@ -333,7 +333,7 @@ nav a:hover {
   justify-content: center;
 }
 body {
-  background: url("../images/bg.jpg") no-repeat center center fixed;
+  background: url("bg.jpg") no-repeat center center fixed;
   background-size: cover;
 }
 .auth-page {
@@ -342,7 +342,7 @@ body {
       rgba(0,0,0,0.6),
       rgba(0,0,0,0.6)
     ),
-    url("../images/bg.") center/cover no-repeat;
+    url("bg.") center/cover no-repeat;
 }
 .about{
   padding:80px 50px;
@@ -829,8 +829,7 @@ body {
   object-fit: cover;
   border-radius: 20px 20px 0 0;
 }
-;
-}
+
 
 
 
@@ -1010,7 +1009,7 @@ body {
 /* ===== LOGIN BACKGROUND ===== */
 .login-body{
   height:100vh;
-  background:url("../images/login-bg.jpg") center/cover no-repeat;
+  background:url("login-bg.jpg") center/cover no-repeat;
   display:flex;
   align-items:center;
   justify-content:center;
@@ -1070,7 +1069,7 @@ body {
 }
 /* ===== USER BACKGROUND ===== */
 .user-body{
-  background:url("../images/user-") center/cover fixed;
+  background:url("user-") center/cover fixed;
   min-height:100vh;
   font-family:'Poppins',sans-serif;
   color:#fff;
